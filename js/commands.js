@@ -3,8 +3,8 @@ whois = [
   "<br>",
   "16 yaşındayım, süperim 🤗",
   "Mersin'de yaşıyorum ve lise öğrencisiyim",
-  "Şuana kadar bir çok dilde bir çok bot ve checker kodladım",
-  "Az çok bildiğim diller: C#, Lua, Python",
+  "Şuana kadar bir çok dilde bir çok Canlı Yayın Sistemi, Script, Bruteforce sistemleri kodladım",
+  "Az çok bildiğim diller: Lua, C#, Python, Kotlin",
   "<br>"
 ];
 
@@ -12,7 +12,7 @@ whois = [
 var github = "https://github.com/Recoo31";
 var insta = "https://www.instagram.com/Recoo33_/";
 var youtubee = "https://www.youtube.com/c/Recoo31/"
-var spo = "https://open.spotify.com/user/31o7s4nzotukrxkjirmy6hoyg3p4?si=b8181d594b3543af"
+var spo = "https://open.spotify.com/user/31o7s4nzotukrxkjirmy6hoyg3p4"
 social = [
   "<br>",
   'Youtube        <a href="' + youtubee + '" target="_blank">youtube/c/Recoo31' + "</a>",
@@ -52,9 +52,8 @@ var sarki =
 help = [
   "<br>",
   '<span class="command">Command:</span>         Just write "whois" or "social".',
-  '<span class="command">whois</span>    =>      Kim Bu Reco 😁?',
-  '<span class="command">social</span>   =>      Sosyal Medya Hesaplarım',
-  '<span class="command">random</span>   =>      Random Şarkı(daha kodlamadım)',
+  '<span class="command">whois</span>    =>      Who is Reco 😁?',
+  '<span class="command">social</span>   =>      Social Media'
   "<br>",
 ];
 
@@ -88,5 +87,6 @@ banner2 = [
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠘⢿⣿⣿⣿⣿⡟⠁⣰⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ",
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠧⣈⣙⣛⣛⣉⣠⠜⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        ",
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ",
-"<span class=\"color2\">Komutları Görmek Için</span> <span class=\"command\">'help'</span><span class=\"color2\"> yazınız.</span>",
+"<span class=\"color2\">Komutları Görmek İçin</span> <span class=\"command\">'help'</span><span class=\"color2\"> yazınız.</span>",
+"<span class=\"color2\">To See Commands</span> <span class=\"command\">'help'</span>,
 ]
