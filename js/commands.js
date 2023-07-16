@@ -51,9 +51,8 @@ var sarki =
 help = [
   "<br>",
   '<span class="command">Command:</span>         Just write "whois" or "social".',
-  '<span class="command">whois</span>    =>      Kim Bu Reco 😁?',
-  '<span class="command">social</span>   =>      Sosyal Medya Hesaplarım',
-  '<span class="command">random</span>   =>      Random Şarkı(daha kodlamadım)',
+  '<span class="command">whois</span>    =>      Who is Reco 😁?',
+  '<span class="command">social</span>   =>      Social Media'
   "<br>",
 ];
 
@@ -87,5 +86,5 @@ banner2 = [
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠧⣈⣙⣛⣛⣉⣠⠜⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        ",
   "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀         ",
 "<span class=\"color2\">Komutları Görmek İçin</span> <span class=\"command\">'help'</span><span class=\"color2\"> yazınız.</span>",
-"<span class=\"color2\">To See Commands</span> <span class=\"command\">'help'</span>,
+"<span class=\"color2\">To See Commands</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ]
